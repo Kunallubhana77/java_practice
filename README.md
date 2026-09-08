@@ -52,6 +52,11 @@ This repository contains a collection of mini-projects and assignments designed 
 * **Description**: Analyzes delivery partner and restaurant ratings.
 * **Key Concepts**: Method overloading (handling 1D and 2D arrays), aggregate calculations.
 
+#### 📸 Output Preview:
+<div align="center">
+  <img src="food_devlivery.png" alt="Food Delivery Rating Analyzer Output" width="80%"/>
+</div>
+
 ### 🏫 3. Student Activity Management System
 *Located in: `StudentActivity/`*
 * **Description**: Terminal-based menu application for tracking attendance.
@@ -67,10 +72,31 @@ This repository contains a collection of mini-projects and assignments designed 
 * **Description**: Simulates a dynamic hotel booking interface.
 * **Key Concepts**: Encapsulation (getters/setters), constructors (`this` keyword), static counters for tracking total bookings.
 
+#### 📸 Output Preview:
+<div align="center">
+  <img src="hotelbooking1.png" alt="Hotel Booking - Menu" width="80%"/>
+  <img src="hotelbboking2.png" alt="Hotel Booking - Book Room" width="80%"/>
+  <img src="hotelbooking3.png" alt="Hotel Booking - Room Details" width="80%"/>
+  <img src="hotelbooking4.png" alt="Hotel Booking - Calculate Bill" width="80%"/>
+  <img src="hotelbooking5.png" alt="Hotel Booking - Check Status" width="80%"/>
+  <img src="hotelbooking6.png" alt="Hotel Booking - Cancel Booking" width="80%"/>
+</div>
+
 ### 🚗 6. Vehicle Rental Management System
 *Located in: `VehicleRental/`*
 * **Description**: A scalable vehicle rental platform.
 * **Key Concepts**: Inheritance (`extends`), method overriding, abstract characteristics, subclass-specific property mapping.
+
+#### 📸 Output Preview:
+<div align="center">
+  <img src="image.png" alt="Vehicle Rental - Output 1" width="80%"/>
+  <img src="image-2.png" alt="Vehicle Rental - Output 2" width="80%"/>
+  <img src="image-3.png" alt="Vehicle Rental - Output 3" width="80%"/>
+  <img src="image-4.png" alt="Vehicle Rental - Output 4" width="80%"/>
+  <img src="image-5.png" alt="Vehicle Rental - Output 5" width="80%"/>
+  <img src="image-6.png" alt="Vehicle Rental - Output 6" width="80%"/>
+  <img src="image-7.png" alt="Vehicle Rental - Output 7" width="80%"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
